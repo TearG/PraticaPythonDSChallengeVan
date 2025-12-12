@@ -1,6 +1,6 @@
 # 📊 Projeto Alura Store: Análise Estratégica de Vendas
 
-**Analista de Dados:** [Seu Nome Aqui]
+**Analista de Dados:** Vanessa Faria
 **Ferramentas:** Python, Pandas, Matplotlib, Seaborn
 **Status:** Concluído ✔️
 
@@ -35,8 +35,6 @@ Analisamos a relação entre o custo de envio e o volume de vendas:
 ## 📍 BÔNUS: Análise de Desempenho Geográfico
 
 Realizamos um estudo extra de **Dispersão Geográfica (Latitude x Longitude)** para entender a abrangência das lojas.
-
-> *[Insira aqui a imagem do seu Gráfico de Mapa]*
 
 **Insights do Mapa:**
 * A análise revelou que a **Loja 4**, apesar de faturar como uma loja pequena, possui uma operação logística espalhada por todo o território (similar à Loja 1).
